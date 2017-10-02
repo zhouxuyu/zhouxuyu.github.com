@@ -23,7 +23,10 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+starttag
 测试一下
+
+endtag
 
 [Link](url) and ![Image](src)
 ```
